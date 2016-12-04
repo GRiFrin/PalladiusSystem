@@ -1,4 +1,9 @@
 # PalladiusSystem
+
+[![Latest Stable Version](https://poser.pugx.org/grifrin/palladius/v/stable)](https://packagist.org/packages/grifrin/palladius)
+[![Total Downloads](https://poser.pugx.org/grifrin/palladius/downloads)](https://packagist.org/packages/grifrin/palladius)
+
+
 PHP library for transcribing Chinese characters (Pinyin) into the Cyrillic alphabet (using Palladius system) 
 
 ## Install
