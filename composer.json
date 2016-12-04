@@ -1,0 +1,27 @@
+{
+  "name": "grifrin/palladius",
+  "description": "PHP library for transcribing Chinese characters (pinyin) into the Cyrillic alphabet (using Palladius system).",
+  "keywords": [
+    "chinese",
+    "pinyin",
+    "cyrillic",
+    "palladius"
+  ],
+  "homepage": "https://github.com/GRiFrin/PalladiusSystem",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rinat Gazizov",
+      "homepage": "https://github.com/GRiFrin/"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "GRiFrin\\Palladius\\": "src/"
+    }
+  },
+  "require": {
+    "php":">=5.3"
+  },
+  "version": "1.0.0"
+}
